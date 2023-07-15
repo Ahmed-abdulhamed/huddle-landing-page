@@ -13,7 +13,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 ### Links
 
 - Solution URL: [@Ahmed-abdulhamed](https://www.frontendmentor.io/profile/Ahmed-abdulhamed)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Huddle landing page](https://ahmed-abdulhamed.github.io/huddle-landing-page/)
 
 ## My process
 
